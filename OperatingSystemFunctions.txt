@@ -1,3 +1,5 @@
 One major function of an operating system is controling a device's off and on status. Operating systems can make a device turn off, and will have to be reloaded when a device is turned back on again. Devices can also be put into a sleep mode, or go through a reboot, where the device will turn back on after shutting down.
 
 Operating systems also provide means managing programs. Operating systems may offer single task or multiple task functionality. When a multi-task OS has multiple programs running, the program currently being used is the active program, while the programs not actively being used are background tasks.
+
+Monitoring performance is another tool that comes with operating systems. This tool allows users to view open programs and background tasks, as well as view real-time memory, CPU, disk, and network usage. Having access to this function makes trouble shooting performance issues easier.
